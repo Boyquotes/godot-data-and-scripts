@@ -82,6 +82,32 @@ for row in reader:
     session.run(query)
 
 #
+# add data scaffold for Roman consulates
+#
+input_file = open('scaffold_roman_consulates.tsv', "r")
+reader = csv.reader(input_file, delimiter='\t')
+next(reader)  # skip first line
+for row in reader:
+    query = """
+        MATCH (root:Timeline)
+        MERGE (root)-[:hasYearReckoningSystem]->(yrs:YearReckoningSystem {type:'Eponymous officials: Roman Consulships'})
+        MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'names', value:"%s"})
+        MERGE (cp1)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
+        """ % (row[9], row[8], row[0], row[0])
+    session.run(query)
+# add edh attestations (Latin inscriptions)
+input_file = open('attestations_edh_consulibus.tsv', "r")
+reader = csv.reader(input_file, delimiter='\t')
+next(reader)  # skip first line
+for row in reader:
+    query = """
+        MATCH (g:GODOT)
+        WHERE g.uri='%s'
+        MERGE (g)-[:hasAttestation]->(:Attestation {title:'%s', uri:'%s', date_string:"%s"})
+        """ % (row[3], row[0], 'https://edh-www.adw.uni-heidelberg.de/edh/inschrift/' + row[0], row[2])
+    session.run(query)
+
+#
 # create data scaffold for regnal years Roman emperors
 #
 
