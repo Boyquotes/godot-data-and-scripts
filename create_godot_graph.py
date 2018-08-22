@@ -117,4 +117,20 @@ for row in reader:
 #
 
 
+
+#
+# add indexes
+#
+query = "CREATE INDEX ON :YearReckoningSystem(type)"
+session.run(query)
+query = "CREATE INDEX ON :CalendarType(type)"
+session.run(query)
+
+#
+# create unique constraint for GODOT URIs
+#
+query = "CREATE CONSTRAINT ON (g:GODOT) ASSERT g.uri IS UNIQUE"
+session.run(query)
+
+
 session.close()
