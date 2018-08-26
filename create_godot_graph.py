@@ -30,7 +30,7 @@ next(reader)  # skip first line
 for row in reader:
     query = """
     MATCH (root:Timeline)
-    MERGE (root)-[:hasYearReckoningSystem]->(yrs:YearReckoningSystem {type:'Titulature of Roman Emperors: Tribunicia Potestas'})
+    MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Titulature of Roman Emperors: Tribunicia Potestas'})
     MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'reign', value:'%s', uri:'%s'})
     MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'number', value:'%s'})
     MERGE (cp2)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s'})
@@ -73,7 +73,7 @@ for row in reader:
 
     query = """
     MATCH (root:Timeline)
-    MERGE (root)-[:hasYearReckoningSystem]->(yrs:YearReckoningSystem {type:'Eponymous officials: Apollo Priest (Cyrenaica)'})
+    MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Eponymous officials: Apollo Priest (Cyrenaica)'})
     MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s'})
     MERGE (cp1)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard'
     """ % (row[0], row[5])
@@ -90,7 +90,7 @@ next(reader)  # skip first line
 for row in reader:
     query = """
         MATCH (root:Timeline)
-        MERGE (root)-[:hasYearReckoningSystem]->(yrs:YearReckoningSystem {type:'Eponymous officials: Roman Consulships'})
+        MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Eponymous officials: Roman Consulships'})
         MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'names', value:"%s"})
         MERGE (cp1)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
         """ % (row[9], row[8], row[0], row[0])
@@ -121,7 +121,7 @@ for row in reader:
 #
 # add indexes
 #
-query = "CREATE INDEX ON :YearReckoningSystem(type)"
+query = "CREATE INDEX ON :YearReferenceSystem(type)"
 session.run(query)
 query = "CREATE INDEX ON :CalendarType(type)"
 session.run(query)
