@@ -22,6 +22,40 @@ create (t:Timeline) return t
 session.run(query)
 
 #
+# create "None" YRS
+# dates with month/day only
+#
+query = """
+MATCH (t:Timeline) 
+MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'None'})
+MERGE (yrs)-[:hasCalendarType]->(ct:CalendarType {type: 'Egyptian Calendar'})
+"""
+session.run(query)
+# add Egyptian month names
+input_file = open('scaffold_unknown_yrs_egyptian_calendar.tsv', "r")
+reader = csv.reader(input_file, delimiter='\t')
+next(reader)  # skip first line
+for row in reader:
+    query = """
+    MATCH (Timeline)--(YearReferenceSystem {type: 'None'})--(ct:CalendarType {type: 'Egyptian Calendar'})
+    MERGE (ct)-[:hasCalendarPartial]-(cp:CalendarPartial {type: 'month', value: '%s'})
+    MERGE (cp)-[:hasGodotUri]-(g:GODOT {uri: '%s', type:'standard'})
+    """ % (row[0], row[2])
+    session.run(query)
+
+
+#
+# create "Unknown" YRS
+# year number given, but unknown if regnal or (Actian) era is meant
+#
+query = """
+MATCH (t:Timeline) 
+MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'Unknown'})
+"""
+session.run(query)
+
+
+#
 # create data scaffold for Trib Pot of Roman emperors
 #
 input_file = open('scaffold_tribunicia_potestas_roman_emperors.tsv', "r")
