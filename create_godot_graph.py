@@ -32,7 +32,7 @@ MERGE (yrs)-[:hasCalendarType]->(ct:CalendarType {type: 'Egyptian Calendar'})
 """
 session.run(query)
 # add Egyptian month names
-input_file = open('scaffold_unknown_yrs_egyptian_calendar.tsv', "r")
+input_file = open('scaffold_none_yrs_egyptian_calendar.tsv', "r")
 reader = csv.reader(input_file, delimiter='\t')
 next(reader)  # skip first line
 for row in reader:
@@ -51,8 +51,23 @@ for row in reader:
 query = """
 MATCH (t:Timeline) 
 MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'Unknown'})
+MERGE (yrs)-[:hasCalendarType]->(ct:CalendarType {type: 'Egyptian Calendar'})
 """
 session.run(query)
+# add Egyptian month names
+input_file = open('scaffold_unknown_yrs_egyptian_calendar.tsv', "r")
+reader = csv.reader(input_file, delimiter='\t')
+next(reader)  # skip first line
+for row in reader:
+    query = """
+    MATCH (Timeline)--(YearReferenceSystem {type: 'Unknown'})--(ct:CalendarType {type: 'Egyptian Calendar'})
+    MERGE (ct)-[:hasCalendarPartial]-(cp:CalendarPartial {type: 'month', value: '%s'})
+    MERGE (cp)-[:hasGodotUri]-(g:GODOT {uri: '%s', type:'standard'})
+    """ % (row[0], row[2])
+    session.run(query)
+
+
+
 
 
 #
