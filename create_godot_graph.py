@@ -70,11 +70,18 @@ for row in reader:
 #
 # create Actian Era YRS
 #
-query = """
-MATCH (t:Timeline) 
-MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'Era: Actian'})
-"""
-session.run(query)
+input_file = open('scaffold_era_actian.tsv', "r")
+reader = csv.reader(input_file, delimiter='\t')
+next(reader)  # skip first line
+for row in reader:
+    query = """
+    MATCH (t:Timeline) 
+    MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'Era'})
+    MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:'Actian'})
+    MERGE (cp1)-[:hasCalendarPartial]-(cp2:CalendarPartial {type: 'year', value: '%s'})
+    MERGE (cp2)-[:hasGodotUri]-(g:GODOT {uri: '%s', type:'standard'})
+    """ % (row[0], row[3])
+    session.run(query)
 
 
 
