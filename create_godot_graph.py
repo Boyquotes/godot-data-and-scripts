@@ -77,9 +77,9 @@ for row in reader:
     query = """
     MATCH (t:Timeline) 
     MERGE (t)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type: 'Era'})
-    MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:'Actian'})
-    MERGE (cp1)-[:hasCalendarPartial]-(cp2:CalendarPartial {type: 'year', value: '%s'})
-    MERGE (cp2)-[:hasGodotUri]-(g:GODOT {uri: '%s', type:'standard'})
+    MERGE (yrs)-[:hasYearReferenceSystem]->(yrs_sub:YearReferenceSystem {type:'Actian'})
+    MERGE (yrs_sub)-[:hasCalendarPartial]-(cp1:CalendarPartial {type: 'year', value: '%s'})
+    MERGE (cp1)-[:hasGodotUri]-(g:GODOT {uri: '%s', type:'standard'})
     """ % (row[0], row[3])
     session.run(query)
 
@@ -96,10 +96,10 @@ for row in reader:
     query = """
     MATCH (root:Timeline)
     MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Titulature of Roman Emperors'})
-    MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:'Tribunicia Potestas'})
-    MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'name', value:'%s', uri:'%s'})
-    MERGE (cp2)-[:hasCalendarPartial]->(cp3:CalendarPartial {type:'number', value:'%s'})
-    MERGE (cp3)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s'})
+    MERGE (yrs)-[:hasYearReferenceSystem]->(yrs_sub:YearReferenceSystem {type:'Tribunicia Potestas'})
+    MERGE (yrs_sub)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s', uri:'%s'})
+    MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'number', value:'%s'})
+    MERGE (cp2)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s'})
     """ % (row[0], row[1], row[2], row[5], row[3], row[4])
     session.run(query)
 # add trib pot attestations from ocre (coin types)
@@ -141,9 +141,9 @@ for row in reader:
     query = """
     MATCH (root:Timeline)
     MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Eponymous officials'})
-    MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:'Apollo Priest (Cyrenaica)'})
-    MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'name', value:'%s'})
-    MERGE (cp2)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard'
+    MERGE (yrs)-[:hasYearReferenceSystem]->(yrs_sub:YearReferenceSystem {type:'Apollo Priest (Cyrenaica)'})
+    MERGE (yrs_sub)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s'})
+    MERGE (cp1)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard'
     """ % (row[0], row[5])
     query += not_before + not_after
     query += "})"
@@ -159,9 +159,9 @@ for row in reader:
     query = """
         MATCH (root:Timeline)
         MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Eponymous officials'})
-        MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:'Roman Consulships'})
-        MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'name', value:"%s"})
-        MERGE (cp2)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
+        MERGE (yrs)-[:hasYearReferenceSystem]->(yrs_sub:YearReferenceSystem {type:'Roman Consulships'})
+        MERGE (yrs_sub)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:"%s"})
+        MERGE (cp1)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
         """ % (row[9], row[8], row[0], row[0])
     session.run(query)
 # add edh attestations (Latin inscriptions)
@@ -186,10 +186,10 @@ for row in reader:
     query = """
         MATCH (root:Timeline)
         MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Regnal Years'})
-        MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'subtype', value:"Roman Emperors"})
-        MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'name', value:"%s"})
-        MERGE (cp2)-[:hasCalendarPartial]->(cp3:CalendarPartial {type:'year', value:"%s"})
-        MERGE (cp3)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
+        MERGE (yrs)-[:hasYearReferenceSystem]->(yrs_sub:YearReferenceSystem {type:'Roman Emperors'})
+        MERGE (yrs_sub)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:"%s"})
+        MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'year', value:"%s"})
+        MERGE (cp2)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before: '%s', not_after: '%s'})
         """ % (row[0], row[2], row[5], row[3], row[4])
     session.run(query)
 
