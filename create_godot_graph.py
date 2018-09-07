@@ -8,18 +8,18 @@ driver = GraphDatabase.driver(
 session = driver.session()
 
 # delete all nodes and relations in database
-query = """
-MATCH (n)
-DETACH DELETE n
-"""
-session.run(query)
+# query = """
+# MATCH (n)
+# DETACH DELETE n
+# """
+# session.run(query)
 
 
 # create Timeline root node
-query = """
-create (t:Timeline) return t
-"""
-session.run(query)
+# query = """
+# create (t:Timeline) return t
+# """
+# session.run(query)
 
 #
 # create "None" YRS
