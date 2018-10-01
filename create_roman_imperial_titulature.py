@@ -95,6 +95,11 @@ input_file = open('scaffold_imperial_consulates.tsv', "r")
 reader = csv.reader(input_file, delimiter='\t')
 next(reader)  # skip first line
 for row in reader:
+    # create array for cypher from parts_of_consulates column
+    consul_list = []
+    for consulship in row[10].split(";"):
+        consul_list.append(consulship.strip())
+    consul_list_str = str(consul_list)
     query = """
     MATCH(root: Timeline)
     MERGE(root) - [: hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Titulature of Roman Emperors'})
@@ -102,9 +107,9 @@ for row in reader:
     MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'Imperial Consulates'})
     MERGE (cp2)-[:hasCalendarPartial]->(cp3:CalendarPartial {type:'type', value:'%s'})
     MERGE (cp3)-[:hasCalendarPartial]->(cp4:CalendarPartial {type:'number', value:'%s'})
-    MERGE (cp4)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', comment:'%s', date_is_uncertain:'%s'})
+    MERGE (cp4)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', comment:'%s', date_is_uncertain:'%s', part_of_consulate:%s})
 
-    """ % (row[0], row[1], row[2], row[3], row[9], row[5], row[6], row[8], row[7])
+    """ % (row[0], row[1], row[2], row[3], row[9], row[5], row[6], row[8], row[7], consul_list_str)
     session.run(query)
 
 #
