@@ -101,15 +101,14 @@ for row in reader:
         consul_list.append(consulship.strip())
     consul_list_str = str(consul_list)
     query = """
-    MATCH(root: Timeline)
-    MERGE(root) - [: hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Titulature of Roman Emperors'})
-    MERGE(yrs) - [: hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s', uri:'%s'})
+    MATCH (root:Timeline)
+    MERGE (root)-[:hasYearReferenceSystem]->(yrs:YearReferenceSystem {type:'Titulature of Roman Emperors'})
+    MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s', uri:'%s'})
     MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'Imperial Consulates'})
     MERGE (cp2)-[:hasCalendarPartial]->(cp3:CalendarPartial {type:'type', value:'%s'})
     MERGE (cp3)-[:hasCalendarPartial]->(cp4:CalendarPartial {type:'number', value:'%s'})
-    MERGE (cp4)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', comment:'%s', date_is_uncertain:'%s', part_of_consulate:%s})
-
-    """ % (row[0], row[1], row[2], row[3], row[9], row[5], row[6], row[8], row[7], consul_list_str)
+    MERGE (cp4)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', time_span_end:'%s', comment:'%s', date_is_uncertain:'%s', part_of_consulate:%s})
+    """ % (row[0], row[1], row[2], row[3], row[10], row[5], row[6], row[7], row[9], row[8], consul_list_str)
     session.run(query)
 
 #
