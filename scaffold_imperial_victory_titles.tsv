@@ -1,213 +1,213 @@
-emperor_label	wikidata_uri	victory_title	number	title_is_uncertain	not_before	not_after	date_is_uncertain	comment	godot_uri		
-Caligula	https://www.wikidata.org/wiki/Q1409	Britannicus	1	TRUE			TRUE		https://godot.date/id/TjT2mjtWTzUUAZjtBH9yBX	Adiabenicus	
-Domitian	https://www.wikidata.org/wiki/Q1423	Germanicus	1		0083-09		TRUE		https://godot.date/id/QGu4Drmdwxd2mPjQECsnY6	Adiabenicus max.	TRUE
-Nerva	https://www.wikidata.org/wiki/Q1424	Germanicus	1		0097-11				https://godot.date/id/qUgWiWV7tZjp2PE9wLxhLB	Aegyptiacus max.	
-Trajan	https://www.wikidata.org/wiki/Q1425	Germanicus	1		0097-11				https://godot.date/id/8RMgwyX7RrskwtfUgznjw4	Alamannicus max.	
-Trajan	https://www.wikidata.org/wiki/Q1425	Dacicus	1		0102-09	0102-11		autumn 102 AD	https://godot.date/id/mA5AdmqWMdcPTg6e6guyGN	Arabicus	
-Trajan	https://www.wikidata.org/wiki/Q1425	Parthicus	1		0116-02-20	0116-02-21			https://godot.date/id/UdinGck5Fo6uFye6gtgBFC	Arabicus max.	
-Marc Aurel	https://www.wikidata.org/wiki/Q1430	Armeniacus	1		0164-07-01			beginning of July 164 AD to the latest; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/Ja44u7Ts35eJ4eKrgq2aUL	Armeniacus	
-Marc Aurel	https://www.wikidata.org/wiki/Q1430	Medicus	1		0166-06	0166-07		mid 166 AD; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/22bxLG9aLdyuC3CYovfyDT	Armeniacus max.	
-Marc Aurel	https://www.wikidata.org/wiki/Q1430	Parthicus max.	1		0166-06	0166-07		mid 166 AD; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/FFegfwtc9WjpDaqsz6Xg7g	Britannicus	
-Marc Aurel	https://www.wikidata.org/wiki/Q1430	Germanicus	1		0172				https://godot.date/id/gUsqUe9UbLojGKVZtftgaC	Britannicus max.	
-Marc Aurel	https://www.wikidata.org/wiki/Q1430	Sarmaticus	1		0175-07-01	0175-08-31	TRUE	not on coins after 178 AD	https://godot.date/id/BtaUqCVayxeRuPeFhbU2qC	Carpicus max.	
-L. Verus	https://www.wikidata.org/wiki/Q1433	Armeniacus	1		0163-09	0163-11		autumn 193 AD	https://godot.date/id/uJsxKQFHDFS9AvNDMYPu4L	Dacicus	
-L. Verus	https://www.wikidata.org/wiki/Q1433	Parthicus max.	1		0165-08	0165-09			https://godot.date/id/YAnGciTetkZ996724gdsV4	Dacicus max.	
-L. Verus	https://www.wikidata.org/wiki/Q1433	Medicus	1		0166-06	0166-08		summer 166 AD	https://godot.date/id/5G5Gn2XGWHRuUvUJaFubWn	Francicus max.	
-Commodus	https://www.wikidata.org/wiki/Q1434	Germanicus	1		0172-10-15			not on coins after 178 AD	https://godot.date/id/qHZ6A8RCCEAYZSR8E8bXsU	Germanicus	
-Commodus	https://www.wikidata.org/wiki/Q1434	Sarmaticus	1		0175-09	0175-11		autumn 175 AD; not on coins after 178 AD	https://godot.date/id/9UU7cAW4tPCYoUmAMB2BHE	Germanicus max.	
-Commodus	https://www.wikidata.org/wiki/Q1434	Germanicus max.	1			0182-05-15			https://godot.date/id/9s3hvQGo7MazxLTRdh9GgR	Gothicus	
-Commodus	https://www.wikidata.org/wiki/Q1434	Britannicus	1		0184-06-01	0184-12-31		second half of 184 AD	https://godot.date/id/5kppzG9X8k3N8ix7WiA2iX	Gothicus max.	
-Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus Arabicus	1			0195-08-28			https://godot.date/id/b3SrskNrJLkF3FBkvTyEzi	Medicus	
-Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus Adiabenicus	1			0195-08-28			https://godot.date/id/knzCxWRJyg4aYtz2eztLDc	Medicus max.	
-Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus max.	1		0198-01				https://godot.date/id/8Bk77JwDNK8NtcsQpLTjfE	Palmyrenicus max.	
-Septimius Severus	https://www.wikidata.org/wiki/Q1442	Britannicus max.	1		0210-03-31		TRUE		https://godot.date/id/5Zrsht4jE8sb3Bts4kpeXG	Parthicus	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Parthicus max.	1		0211-02-04				https://godot.date/id/ELrdBatQ2LeHULar8fNpek	Parthicus max.	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Britannicus max.	1		0210-03-31		TRUE		https://godot.date/id/J9tMoAXNagR3iz7bVn7tCo	Parthicus Arabicus	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Germanicus max.	1		0213-09-20	0213-09-30		end of September 213	https://godot.date/id/v8MPkAwYp3CSaDQWkwmHdm	Parthicus Adiabenicus	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Arabicus	1		0211				https://godot.date/id/RaZRbU95agPqPhF4yjWU4a	Persicus	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Arabicus max.	1		0211				https://godot.date/id/RpqLJ2UtzTBRWy7iT7jf65	Persicus max.	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Adiabenicus	1		0211				https://godot.date/id/tb2q87ErNLWgHRqpHAXN5Q	Sarmaticus	
-Caracalla	https://www.wikidata.org/wiki/Q1446	Adiabenicus max.	1		0211				https://godot.date/id/aX5FeCfQ6yTd75crTSdpRW	Sarmaticus max.	
-Geta	https://www.wikidata.org/wiki/Q183089	Britannicus max.	1		0210-03-31		TRUE		https://godot.date/id/p2ZEaX9stgfUVCDV2QvPQ4	Thebaicus max.	
-Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Germanicus max.	1		0236-06	0236-08	TRUE	summer(?) 236 AD	https://godot.date/id/qkkHqPiiAz3hUAKopEgE2N		
-Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Dacicus max.	1		0236			end of 236 AD	https://godot.date/id/9Xj67vX4i4Lzc7rtJVdQi7		
-Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Sarmaticus max.	1		0236			end of 236 AD	https://godot.date/id/d6ASmvfVMGumKXg7HtQg94		
-Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Parthicus max.	1		0237		TRUE	only attested CIL XIII 8863	https://godot.date/id/cm6tb23TUwVLfNmAWAVHpK		
-Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Persicus max.	1		0244-06	0244-07		mid 244 AD	https://godot.date/id/TQieMHzqHMLeAkF76s8xd5		
-Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Parthicus max.	1		0244-06	0244-07		mid 244 AD	https://godot.date/id/gZYbgBqMn8q8aV4yUcCqk2		
-Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Parthicus Adiabenicus	1	TRUE			TRUE	only IGBulg V 5257	https://godot.date/id/5VA2ryFf8sthjFpZHcqMKJ		
-Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Carpicus max.	1		0247		TRUE	end 247 AD	https://godot.date/id/HGG9ztzcLoEuUY9cQf3yCC		
-Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Germanicus max.	1	TRUE				unofficial	https://godot.date/id/kxptCQiPBEJPE3tSubfqSg		
-Decius	https://www.wikidata.org/wiki/Q1830	Dacicus max.	1	TRUE	0250			only CIL XVII 1, 1, 56 & 100; irregular?	https://godot.date/id/firdMPJiDUb6VLujmwFn49		
-Decius	https://www.wikidata.org/wiki/Q1830	Germanicus max.	1	TRUE	0251		TRUE	only AE 1942/3, 55; irregular?	https://godot.date/id/HEshdmnGfvuA9y845KgRXZ		
-Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus	1		0254			end of 254 AD	https://godot.date/id/YwkhRe6Mw8cbmNacZeenV5		
-Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus max.	1		0255				https://godot.date/id/Kdp5FofpcPZmo2M49jB9sk		
-Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus max.	3		0257				https://godot.date/id/T2KQGazL8NH4AcVioL6N3g		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus	1		0254			end of 254 AD	https://godot.date/id/qLBkE6A6vm8aNum8hbxVDo		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	1		0255				https://godot.date/id/9k6YdkxSXGuiTM2HrbKSC7		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	3		0257				https://godot.date/id/3PRm7SvXMB7KCWyf9yoXRM		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	5		0258				https://godot.date/id/U2ndfFKTWNHsKps7i5rmgb		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Dacicus max.	1	TRUE	0257		TRUE	AE 1993, 914; Dessau 552; unofficial?	https://godot.date/id/onW8twTkZuKF6K8notdbfa		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Persicus max.	1		0265		TRUE		https://godot.date/id/cuxU2LFDtWYhMdngXNUhND		
-Gallienus	https://www.wikidata.org/wiki/Q104475	Parthicus max.	1		0265		TRUE		https://godot.date/id/q6MGtLEShBbPobZ2DsnazJ		
-Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Germanicus max.	1		0268				https://godot.date/id/NGTM2FwdvQkfofKQgGYdeE		
-Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Gothicus max.	1		0269				https://godot.date/id/pqXQwhUhAArpeJJLcAqZ89		
-Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Parthicus max.	1		0270				https://godot.date/id/wciVkjDPnTXi6EcNHg99ZE		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Germanicus max.	1		0271				https://godot.date/id/WQEEqsHcsmB7RWshUo5idT		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Gothicus max.	1		0272				https://godot.date/id/82j6evRe4bimWK96rJAtje		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Dacicus max.	1		0272		TRUE	not officially used	https://godot.date/id/Y7e3isL6pFFxsJodCGqNCH		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Parthicus max.	1		0272				https://godot.date/id/nappN232N8QTMYLUDJEiG5		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Arabicus max.	1		0272			not officially used	https://godot.date/id/7gLaDKhHLcEqyLKkUkuAtU		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Palmyrenicus max.	1		0272			not officially used	https://godot.date/id/455UjPBve3CGpTNUbxy9h9		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Armeniacus	1	TRUE			TRUE	only in HA 30, 5; irregular?	https://godot.date/id/7fXrZHL8E9Hy8aBTjVB8VA		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Adiabenicus	1	TRUE			TRUE	only in HA 30, 5; irregular?	https://godot.date/id/F2UBeyjeFUvwQKfef4qKgP		
-Aurelian	https://www.wikidata.org/wiki/Q46780	Carpicus max.	1		0273				https://godot.date/id/ijaZ8pkNnVD9R5VaABKrPf		
-Tacitus	https://www.wikidata.org/wiki/Q177988	Gothicus max.	1		0276-06	0276-07	TRUE	early summer	https://godot.date/id/aj6qgXwc2wHcXgHpheGdGV		
-Probus	https://www.wikidata.org/wiki/Q187068	Gothicus	1		0277				https://godot.date/id/48fkebin8t7CscUNFm9ynM		
-Probus	https://www.wikidata.org/wiki/Q187068	Gothicus max.	1		0279-10				https://godot.date/id/jYM5PRjRijP2rNMWW5EYw3		
-Probus	https://www.wikidata.org/wiki/Q187068	Germanicus max.	1		0279-10				https://godot.date/id/Wep3VsjEcYLkwSz6mELWeG		
-Probus	https://www.wikidata.org/wiki/Q187068	Parthicus max.	1		0279-10			only in papyri	https://godot.date/id/5UHskxdqfPis8mGDRCM46Y		
-Carus	https://www.wikidata.org/wiki/Q187004	Germanicus max.	1			0283-04-07			https://godot.date/id/wkxpmSv8CkgXU6Bfa4yTnU		
-Carus	https://www.wikidata.org/wiki/Q187004	Parthicus max.	1		0283				https://godot.date/id/bXcASWR6aePgksXEHaM2E2		
-Carinus	https://www.wikidata.org/wiki/Q190097	Germanicus max.	1			0283-04-07			https://godot.date/id/bPqABTYKU9AJiv5azF2L5f		
-Carinus	https://www.wikidata.org/wiki/Q190097	Persicus max.	1		0283				https://godot.date/id/5j3pw7CqbXLqaUXkP9Ypkb		
-Carinus	https://www.wikidata.org/wiki/Q190097	Britannicus max.	1		0284-06	0284-07		mid 284 AD	https://godot.date/id/vJY62MHMEZpLDfUndWXoSP		
-Numerianus	https://www.wikidata.org/wiki/Q46821	Germanicus max.	1	TRUE			TRUE		https://godot.date/id/QNeeRmZRMEkbuzmk3ugJmY		
-Numerianus	https://www.wikidata.org/wiki/Q46821	Persicus max.	1		0283				https://godot.date/id/fpjCvqKEnCq9sj9aJGrLyg		
-Numerianus	https://www.wikidata.org/wiki/Q46821	Britannicus max.	1		0284				https://godot.date/id/Gs7EjDpT2PbkXxKYZ7rSHX		
-Numerianus	https://www.wikidata.org/wiki/Q46821	Gothicus max.	1	TRUE			TRUE	ZPE 149, 2004, p. 246	https://godot.date/id/CXKx9H7hNFZ8GTSsghpzcM		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	1		0285				https://godot.date/id/UDwMNHsqmukSuRFDYxCSoj		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	1		0285				https://godot.date/id/wKYYALKfCSwGXK7aKJR8zL		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	2		0287				https://godot.date/id/65odXnznvYAA3ZmA8FCXvF		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	3		0287				https://godot.date/id/i8Z9f2XD3UwGeaHy9QjxV4		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	4		0288				https://godot.date/id/uKexMRd8rtPUgUdg2pngEJ		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	2		0289				https://godot.date/id/7TWGRqjdvRsmgKvidKkN6g		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	5		0293				https://godot.date/id/ybHtiox2o9wmNi6TjUN8cg		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	3		0294				https://godot.date/id/YgYeruebCYfmSnBLTser2V		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Persicus max.	1		0295		TRUE		https://godot.date/id/3QhTCPE4guakm339xQv4XA		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Britannicus max.	1		0296	0297	TRUE		https://godot.date/id/zp5PLCFn7E8Svn6XwRvJua		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Carpicus max.	1		0296	0297	TRUE		https://godot.date/id/6ZwkCwGW4gvEroMdk428fQ		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Armeniacus max.	1		0298				https://godot.date/id/B8iRJLEjV3s5fZCpM7PHAm		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Medicus max.	1		0298				https://godot.date/id/Y45Bgt9GiMtkrBQv5BcjXY		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Adiabenicus max.	1		0298				https://godot.date/id/xpGXKuXmqRY6s23yseDB8P		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Persicus max.	2		0298				https://godot.date/id/CJiywiw3SCUzHeZvMgJF8Z		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	2		0299	0300	TRUE		https://godot.date/id/5soFaYanqdpg3VKr8aLLw5		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	6		0300	0301	TRUE		https://godot.date/id/K8ji926JyWeJDEUKwTbLCM		
-Diocletian	https://www.wikidata.org/wiki/Q43107	Gothicus max.	1		0293		TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/s5BSbGfPXyUhmKq6BqTbyC		
-Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	1		0287				https://godot.date/id/P8s82TE2NYCrh6k7QBDw2Q		
-Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	2		0287				https://godot.date/id/NNfb3AJphoXsKjt7RyyW9V		
-Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	3		0288				https://godot.date/id/E6sdzZ2C6y8Sif7drZakqb		
-Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	1		0289				https://godot.date/id/fWAM2S49MnoWwBicuoXXNR		
-Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	4		0293				https://godot.date/id/Z5pV2X6hNzrhLsRXo3uAtK		
-Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	2		0294				https://godot.date/id/naUj5hqS2SgnXSnXPF65kE		
-Maximian	https://www.wikidata.org/wiki/Q46768	Persicus max.	1		0295		TRUE		https://godot.date/id/zvgBLduV5eEJTVvq9hY7WG		
-Maximian	https://www.wikidata.org/wiki/Q46768	Britannicus max.	1		0296	0297	TRUE		https://godot.date/id/8TLDJaY2qfnS9Bp24VSAxG		
-Maximian	https://www.wikidata.org/wiki/Q46768	Carpicus max.	1		0296	0297	TRUE		https://godot.date/id/5jVqmoZkZaf6i4Y7J4YQsF		
-Maximian	https://www.wikidata.org/wiki/Q46768	Armeniacus max.	1		0298				https://godot.date/id/o9gpJiyecR6gjCq9jCFKEG		
-Maximian	https://www.wikidata.org/wiki/Q46768	Medicus max.	1		0298				https://godot.date/id/2C7y4ziKDy2sVe56mAw6zS		
-Maximian	https://www.wikidata.org/wiki/Q46768	Adiabenicus max.	1		0298				https://godot.date/id/ncjWTyFrhoahVnkT3Myth2		
-Maximian	https://www.wikidata.org/wiki/Q46768	Persicus max.	2		0298				https://godot.date/id/qhjWXfM2T4Xdguh5bnk8v2		
-Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	3		0299	0300	TRUE		https://godot.date/id/wDLJN6LseBSXSJtbbj6JDG		
-Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	5		0300	0301	TRUE		https://godot.date/id/PLT526Ya4cSPyQufKfmDqC		
-Maximian	https://www.wikidata.org/wiki/Q46768	Gothicus max.	1		0293		TRUE	ca. 293 AD; not used after 296/6 AD	https://godot.date/id/qAKJfYbttEMG8rPp2kHVxY		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	1		0293				https://godot.date/id/xyGpFukwza8JMSTetbg4wN		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	1		0294				https://godot.date/id/WkxLV9DxxvnuauKXsfSSBj		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Persicus max.	1		0295		TRUE		https://godot.date/id/iwNiY9jKrVFbetnSoX9Wjg		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Britannicus max.	1		0296	0297	TRUE		https://godot.date/id/hEtG2bf97VqugFzokDb5r2		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	1		0296	0297	TRUE		https://godot.date/id/w6FPe44zNkLCEhkN97f2ja		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Medicus max.	1		0298				https://godot.date/id/t4QXWzj5BD4davEdU8S7pj		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Adiabenicus max.	1		0298				https://godot.date/id/onuhKMHJsfsCrtwifHbEaW		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Persicus max.	2		0298				https://godot.date/id/Y8k5mphqhWcdRy6VM95UD6		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	2		0299	0300	TRUE		https://godot.date/id/X6s29znbC7uvmv9mLLgrf6		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	2		0300	0301	TRUE		https://godot.date/id/5CDinDu9EDU4KgtTPtEKuH		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	3		0302				https://godot.date/id/Z2gmVQeoJnPmvYE4kkwaad		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	4		0303				https://godot.date/id/H8n4yCtD9CcMXLMTRh8vUk		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	5		0304				https://godot.date/id/99geog66a5SckUciNnL3HA		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	2		0301				https://godot.date/id/qXtpy6vvFX78b6b28SVQCR		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	3		0302				https://godot.date/id/xdzYem28KR5YSJyz4FdkLM		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	4		0303				https://godot.date/id/ivhUPQAykMSVngE7NErkY4		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	5		0304				https://godot.date/id/vCPiqKiUFXa6NE2SAvTvz5		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	3		0302		TRUE		https://godot.date/id/KT3hpo5sWeyKTUkJQWWFfE		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Britannicus max.	2		0305				https://godot.date/id/Nj5M5YXtcBVAAfgmdTvmpn		
-Constantius I	https://www.wikidata.org/wiki/Q131195	Gothicus max.	1		0293		TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/ZfmTQiiXQ33jYtRzdnkVXJ		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	1		0293				https://godot.date/id/3RUZcvQ8aKe72raN3jta7o		
-Galerius	https://www.wikidata.org/wiki/Q172168	Aegyptiacus max.	1	TRUE	0293	0294	TRUE	only attestation: Euseb. hsit.eccl. 8, 17, 3	https://godot.date/id/kTuxeXydXjmx5AAsYyvjLD		
-Galerius	https://www.wikidata.org/wiki/Q172168	Thebaicus max.	1	TRUE	0293	0294	TRUE		https://godot.date/id/sTizBU86MqJRzXfaNZUP6S		
-Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	1		0294				https://godot.date/id/wYks9uToAZTyQyoFd43GU6		
-Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	1		0295		TRUE		https://godot.date/id/hDhBVUbjGphc9ojioADzAB		
-Galerius	https://www.wikidata.org/wiki/Q172168	Britannicus max.	1		0296	0297	TRUE		https://godot.date/id/hZsrgqbtWtJg4MGdp4PcsP		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	1		0296	0297	TRUE		https://godot.date/id/aazZA84CHsVA8tHinLyCac		
-Galerius	https://www.wikidata.org/wiki/Q172168	Armeniacus max.	1		0298				https://godot.date/id/VAQdoEKfxkZJNMcuYHRwKT		
-Galerius	https://www.wikidata.org/wiki/Q172168	Medicus max.	1		0298				https://godot.date/id/EwpVhU793BAesURJbfgiBb		
-Galerius	https://www.wikidata.org/wiki/Q172168	Adiabenicus max.	1		0298				https://godot.date/id/m377VSJ5LfpBMeGKfvoJqb		
-Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	2		0298				https://godot.date/id/XBDXcbdGymE5mpXt9ZyGdR		
-Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	2		0299	0300	TRUE		https://godot.date/id/bYKhCR9vKHzJzqC2SKizyd		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	2		0300	0301	TRUE		https://godot.date/id/xucxhQxp2YPFcHf6o6b96P		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	3		0302				https://godot.date/id/CbiaUKNyuF6GhiYWiaNVm6		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	4		0303				https://godot.date/id/ZRAabe9iUrZDVKebgAkuE6		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	5		0304				https://godot.date/id/hTXxcRW6dcy9jFWkQgAtCc		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	2		0301				https://godot.date/id/oeVUQ6JxJnAsFGqAKSbKw9		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	3		0302				https://godot.date/id/bs8vfKVkYh6qevzQeofKaT		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	4		0303				https://godot.date/id/UmDbS2PNduYKRYt24biJh5		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	5		0304				https://godot.date/id/vn9p6jtWYEaTN85JJswegX		
-Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	3		0302		TRUE		https://godot.date/id/pB3MjE5RTyNsimCJQhyqBC		
-Galerius	https://www.wikidata.org/wiki/Q172168	Britannicus max.	2		0305				https://godot.date/id/tpzcxXFXbyMDw77yzxb2dG		
-Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	4		0306	0307	TRUE		https://godot.date/id/mruGjrFtsahP7QYYJPUNVi		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	6		0307				https://godot.date/id/jjVdy7yPMuvXPSXL4N22Pc		
-Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	7		0308				https://godot.date/id/yntkbv8J2xR6oxNg2nijrH		
-Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	6		0308	0309	TRUE		https://godot.date/id/h3LuzXM5LXdCPMqtNBC2E3		
-Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	5		0310				https://godot.date/id/Fe4e8cyekDYkByCoxp89pn		
-Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	3		0310				https://godot.date/id/6mfPJudiJ3Gpu7BCymwCXZ		
-Galerius	https://www.wikidata.org/wiki/Q172168	Gothicus max.	1		0293		TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/oX9zMZTyfRAryWAHFa7wK9		
-Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Sarmaticus	1		0313		TRUE		https://godot.date/id/rJExZUV7Jjn6qXkTn3o8aV		
-Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Germanicus	1		0313		TRUE		https://godot.date/id/MjVGoBD4tJJd5K4RccVVvd		
-Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Persicus	1		0312		TRUE		https://godot.date/id/daekqhhvcSYtGuKFm6xQDk		
-Licinius	https://www.wikidata.org/wiki/Q184549	Germanicus	1			0310			https://godot.date/id/zJHA5RYLwFwNQiPsbXBNwQ		
-Licinius	https://www.wikidata.org/wiki/Q184549	Sarmaticus	1		0310				https://godot.date/id/GNrjDjeYeHxQGc7vFvwyMY		
-Licinius	https://www.wikidata.org/wiki/Q184549	Germanicus max.	1		0315		TRUE		https://godot.date/id/f2Jeaapz8kMbqATbJcxZPQ		
-Licinius	https://www.wikidata.org/wiki/Q184549	Sarmaticus max.	1		0315		TRUE		https://godot.date/id/smGyJytqgSDoi9VhDgYJpX		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus	1		0313		TRUE		https://godot.date/id/anhN9W5WMe2PHkBAWao8Ee		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus	1		0313		TRUE		https://godot.date/id/ALrVVXRaShq7QnLD33pf7E		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Persicus	1		0312		TRUE		https://godot.date/id/AXfecweeQFY2kr8kP6Lrh6		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	1		0313		TRUE		https://godot.date/id/9wRuisXTbwT2C6EXFAZVj4		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	1		0313		TRUE		https://godot.date/id/daZJsDTiiSp8NJWYWaioL7		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Britannicus max.	1		0313	0314			https://godot.date/id/KMe8L8FB7zenhM3aE6fkYT		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Persicus max.	1			0315			https://godot.date/id/PxmteZVRbQsvuFfBHFmYJW		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Adiabenicus max.	1			0315			https://godot.date/id/qQskjZa8xs9PnbEnjZHLmi		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Medicus max.	1			0315			https://godot.date/id/npqNd27WanosyzB8N8jsBB		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Gothicus max.	1		0315				https://godot.date/id/bH22Tobz5PVKNwk74VZVDn		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	3		0318				https://godot.date/id/CtiQjdzjaAbnbU7wJs3V47		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Carpicus max.	1			0318			https://godot.date/id/4pbz7QXMQxmbUYTZbcDdRZ		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Arabicus max.	1			0318			https://godot.date/id/vYT3HbHSfhr5uuBJsAFRUi		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Armeniacus max.	1			0318			https://godot.date/id/U5ewaQ5eiu6fPJGarVHsHW		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	2		0323	0334	TRUE	Kienast, Kaisertabelle: 232 AD; Barnes, New Empire: 334 AD	https://godot.date/id/v6CefBs4h8jQkoCWEAJCpm		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Gothicus max.	2		0328	0332	TRUE	Kienast, Kaisertabelle: 328/9 AD; Barnes, New Empire: 332 AD	https://godot.date/id/eWW4e7zGW7XSWgGzn5grCJ		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	4		0328	0329			https://godot.date/id/Kg6U7aT6wEfBErYZ9jd4Mm		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	3		0328	0329	TRUE		https://godot.date/id/h9E29PYTJBwVDndVZacv7J		
-Constantin I	https://www.wikidata.org/wiki/Q8413	Dacicus max.	1		0336				https://godot.date/id/ppPdXwhA3SDQqPjMmhSKBF		
-Constantin II	https://www.wikidata.org/wiki/Q46734	Alamannicus max.	1		0328				https://godot.date/id/JXaMwTGSYEJGRRd9czucg9		
-Constantin II	https://www.wikidata.org/wiki/Q46734	Germanicus max.	1		0338		TRUE		https://godot.date/id/n6Dx6jUc9Y88DjJgwZd6vj		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Germanicus	1		0323	0332	TRUE		https://godot.date/id/wZo7Qv5z6BhzHzXuWWtzJn		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Alamannicus max.	1		0323	0332			https://godot.date/id/HjJGj97Jg3tcTTLzBpacTB		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Germanicus max.	1		0323	0332			https://godot.date/id/3ZNA6gNmbUjzmYK8DFADRQ		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Gothicus max.	1		0332				https://godot.date/id/7dmXCoKgydDQQcMkmS4kRX		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Adiabenicus max.	1		0343		TRUE		https://godot.date/id/zH5rJQwL6x9Cxp2GjFQQuT		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Sarmaticus	1		0334	0337	TRUE	Kienast, Kaisertabelle: 337 AD; ZPE 57 1984: 334 AD	https://godot.date/id/oRYhDZVE7HbGLcUp2ebA7N		
-Constantius II	https://www.wikidata.org/wiki/Q46418	Persicus	1		0335	0338	TRUE	Kienast, Kaisertabelle: 338 AD; ZPE 57 1984: 335 AD	https://godot.date/id/uhxgH2azTzkzbgx2KBrkdH		
-Julian	https://www.wikidata.org/wiki/Q33941	Germanicus max.	1				TRUE		https://godot.date/id/F36R6o5DyTs9ZMB6xohs5b		
-Julian	https://www.wikidata.org/wiki/Q33941	Alamannicus max.	1				TRUE		https://godot.date/id/TXNUDVy7f2KQbePyTmJvhR		
-Julian	https://www.wikidata.org/wiki/Q33941	Francicus max.	1		0360	0362			https://godot.date/id/yzTrgBqSiNxyaQDBqTgx9d		
-Julian	https://www.wikidata.org/wiki/Q33941	Sarmaticus max.	1				TRUE		https://godot.date/id/HinVSfm5KiKM7Pu27kfUX9		
-Valentinian I	https://www.wikidata.org/wiki/Q46720	Germanicus	1				TRUE		https://godot.date/id/cHaSTEGJnYucBjrjaZJXEY		
-Valentinian I	https://www.wikidata.org/wiki/Q46720	Germanicus max.	1		0368				https://godot.date/id/MaJiDXmgAXnp2z4N5g5X4W		
-Valentinian I	https://www.wikidata.org/wiki/Q46720	Alamannicus max.	1		0368				https://godot.date/id/EC2vRWaVgC7Wf7beMyiuHG		
-Valentinian I	https://www.wikidata.org/wiki/Q46720	Francicus max.	1		0368				https://godot.date/id/58fhi3z73ztTRoHQzAXUnD		
-Valentinian I	https://www.wikidata.org/wiki/Q46720	Gothicus max.	1		0369				https://godot.date/id/9k2K79BtvmXAgAfxGYA9eX		
-Valens	https://www.wikidata.org/wiki/Q172471	Germanicus max.	1		0368				https://godot.date/id/hWXsoAXvmkS78nkjtj5GiJ		
-Valens	https://www.wikidata.org/wiki/Q172471	Alamannicus max.	1		0368				https://godot.date/id/4dzP2bEyfqjQ5243XRuxfZ		
-Valens	https://www.wikidata.org/wiki/Q172471	Francicus max.	1		0368				https://godot.date/id/b8KoVNUaMkYR6Q2iqaBcbd		
-Valens	https://www.wikidata.org/wiki/Q172471	Gothicus max.	1		0369				https://godot.date/id/nnvi73NBtaf9abfRiLbSYh		
-Gratian	https://www.wikidata.org/wiki/Q189108	Germanicus max.	1		0368				https://godot.date/id/kXEPkhaLmSFpmnnv5H2A29		
-Gratian	https://www.wikidata.org/wiki/Q189108	Alamannicus max.	1		0368				https://godot.date/id/Yxurj2drQosDsCzM9qCffi		
-Gratian	https://www.wikidata.org/wiki/Q189108	Francicus max.	1		0369				https://godot.date/id/37j55rcUDd3rjZVDKfeX5d		
-Gratian	https://www.wikidata.org/wiki/Q189108	Gothicus max.	1		0369				https://godot.date/id/UZDVv33odYqACwDFD8XUA9		
+emperor_label	wikidata_uri	victory_title	number	title_is_uncertain	not_before	not_after	time_span_end	date_is_uncertain	comment	godot_uri		
+Caligula	https://www.wikidata.org/wiki/Q1409	Britannicus	1	TRUE			0041-01-24	TRUE		https://godot.date/id/TjT2mjtWTzUUAZjtBH9yBX	Adiabenicus	
+Domitian	https://www.wikidata.org/wiki/Q1423	Germanicus	1		0083-09		0096-09-18	TRUE		https://godot.date/id/QGu4Drmdwxd2mPjQECsnY6	Adiabenicus max.	TRUE
+Nerva	https://www.wikidata.org/wiki/Q1424	Germanicus	1		0097-11		0098-01-27			https://godot.date/id/qUgWiWV7tZjp2PE9wLxhLB	Aegyptiacus max.	
+Trajan	https://www.wikidata.org/wiki/Q1425	Germanicus	1		0097-11		0117-08-07			https://godot.date/id/8RMgwyX7RrskwtfUgznjw4	Alamannicus max.	
+Trajan	https://www.wikidata.org/wiki/Q1425	Dacicus	1		0102-09	0102-11	0117-08-07		autumn 102 AD	https://godot.date/id/mA5AdmqWMdcPTg6e6guyGN	Arabicus	
+Trajan	https://www.wikidata.org/wiki/Q1425	Parthicus	1		0116-02-20	0116-02-21	0117-08-07			https://godot.date/id/UdinGck5Fo6uFye6gtgBFC	Arabicus max.	
+Marc Aurel	https://www.wikidata.org/wiki/Q1430	Armeniacus	1		0164-07-01		0180-03-17		beginning of July 164 AD to the latest; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/Ja44u7Ts35eJ4eKrgq2aUL	Armeniacus	
+Marc Aurel	https://www.wikidata.org/wiki/Q1430	Medicus	1		0166-06	0166-07	0180-03-17		mid 166 AD; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/22bxLG9aLdyuC3CYovfyDT	Armeniacus max.	
+Marc Aurel	https://www.wikidata.org/wiki/Q1430	Parthicus max.	1		0166-06	0166-07	0180-03-17		mid 166 AD; officially not used after 169 AD, but can be found in inscriptions & papyri later	https://godot.date/id/FFegfwtc9WjpDaqsz6Xg7g	Britannicus	
+Marc Aurel	https://www.wikidata.org/wiki/Q1430	Germanicus	1		0172		0180-03-17			https://godot.date/id/gUsqUe9UbLojGKVZtftgaC	Britannicus max.	
+Marc Aurel	https://www.wikidata.org/wiki/Q1430	Sarmaticus	1		0175-07-01	0175-08-31	0180-03-17	TRUE	not on coins after 178 AD	https://godot.date/id/BtaUqCVayxeRuPeFhbU2qC	Carpicus max.	
+L. Verus	https://www.wikidata.org/wiki/Q1433	Armeniacus	1		0163-09	0163-11	0169-02		autumn 193 AD	https://godot.date/id/uJsxKQFHDFS9AvNDMYPu4L	Dacicus	
+L. Verus	https://www.wikidata.org/wiki/Q1433	Parthicus max.	1		0165-08	0165-09	0169-02			https://godot.date/id/YAnGciTetkZ996724gdsV4	Dacicus max.	
+L. Verus	https://www.wikidata.org/wiki/Q1433	Medicus	1		0166-06	0166-08	0169-02		summer 166 AD	https://godot.date/id/5G5Gn2XGWHRuUvUJaFubWn	Francicus max.	
+Commodus	https://www.wikidata.org/wiki/Q1434	Germanicus	1		0172-10-15		0192-12-31		not on coins after 178 AD	https://godot.date/id/qHZ6A8RCCEAYZSR8E8bXsU	Germanicus	
+Commodus	https://www.wikidata.org/wiki/Q1434	Sarmaticus	1		0175-09	0175-11	0192-12-31		autumn 175 AD; not on coins after 178 AD	https://godot.date/id/9UU7cAW4tPCYoUmAMB2BHE	Germanicus max.	
+Commodus	https://www.wikidata.org/wiki/Q1434	Germanicus max.	1			0182-05-15	0192-12-31			https://godot.date/id/9s3hvQGo7MazxLTRdh9GgR	Gothicus	
+Commodus	https://www.wikidata.org/wiki/Q1434	Britannicus	1		0184-06-01	0184-12-31	0192-12-31		second half of 184 AD	https://godot.date/id/5kppzG9X8k3N8ix7WiA2iX	Gothicus max.	
+Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus Arabicus	1			0195-08-28	0211-02-04			https://godot.date/id/b3SrskNrJLkF3FBkvTyEzi	Medicus	
+Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus Adiabenicus	1			0195-08-28	0211-02-04			https://godot.date/id/knzCxWRJyg4aYtz2eztLDc	Medicus max.	
+Septimius Severus	https://www.wikidata.org/wiki/Q1442	Parthicus max.	1		0198-01		0211-02-04			https://godot.date/id/8Bk77JwDNK8NtcsQpLTjfE	Palmyrenicus max.	
+Septimius Severus	https://www.wikidata.org/wiki/Q1442	Britannicus max.	1		0210-03-31		0211-02-04	TRUE		https://godot.date/id/5Zrsht4jE8sb3Bts4kpeXG	Parthicus	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Parthicus max.	1		0211-02-04		0217-04-08			https://godot.date/id/ELrdBatQ2LeHULar8fNpek	Parthicus max.	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Britannicus max.	1		0210-03-31		0217-04-08	TRUE		https://godot.date/id/J9tMoAXNagR3iz7bVn7tCo	Parthicus Arabicus	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Germanicus max.	1		0213-09-20	0213-09-30	0217-04-08		end of September 213	https://godot.date/id/v8MPkAwYp3CSaDQWkwmHdm	Parthicus Adiabenicus	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Arabicus	1		0211		0217-04-08			https://godot.date/id/RaZRbU95agPqPhF4yjWU4a	Persicus	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Arabicus max.	1		0211		0217-04-08			https://godot.date/id/RpqLJ2UtzTBRWy7iT7jf65	Persicus max.	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Adiabenicus	1		0211		0217-04-08			https://godot.date/id/tb2q87ErNLWgHRqpHAXN5Q	Sarmaticus	
+Caracalla	https://www.wikidata.org/wiki/Q1446	Adiabenicus max.	1		0211		0217-04-08			https://godot.date/id/aX5FeCfQ6yTd75crTSdpRW	Sarmaticus max.	
+Geta	https://www.wikidata.org/wiki/Q183089	Britannicus max.	1		0210-03-31		0211-12-19	TRUE		https://godot.date/id/p2ZEaX9stgfUVCDV2QvPQ4	Thebaicus max.	
+Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Germanicus max.	1		0236-06	0236-08	0238-04	TRUE	summer(?) 236 AD	https://godot.date/id/qkkHqPiiAz3hUAKopEgE2N		
+Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Dacicus max.	1		0236		0238-04		end of 236 AD	https://godot.date/id/9Xj67vX4i4Lzc7rtJVdQi7		
+Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Sarmaticus max.	1		0236		0238-04		end of 236 AD	https://godot.date/id/d6ASmvfVMGumKXg7HtQg94		
+Maximinus Thrax	https://www.wikidata.org/wiki/Q1777	Parthicus max.	1		0237		0238-04	TRUE	only attested CIL XIII 8863	https://godot.date/id/cm6tb23TUwVLfNmAWAVHpK		
+Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Persicus max.	1		0244-06	0244-07	0249-10		mid 244 AD	https://godot.date/id/TQieMHzqHMLeAkF76s8xd5		
+Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Parthicus max.	1		0244-06	0244-07	0249-10		mid 244 AD	https://godot.date/id/gZYbgBqMn8q8aV4yUcCqk2		
+Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Parthicus Adiabenicus	1	TRUE			0249-10	TRUE	only IGBulg V 5257	https://godot.date/id/5VA2ryFf8sthjFpZHcqMKJ		
+Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Carpicus max.	1		0247		0249-10	TRUE	end 247 AD	https://godot.date/id/HGG9ztzcLoEuUY9cQf3yCC		
+Philippus Arabs	https://www.wikidata.org/wiki/Q1817	Germanicus max.	1	TRUE			0249-10		unofficial	https://godot.date/id/kxptCQiPBEJPE3tSubfqSg		
+Decius	https://www.wikidata.org/wiki/Q1830	Dacicus max.	1	TRUE	0250		0251-06		only CIL XVII 1, 1, 56 & 100; irregular?	https://godot.date/id/firdMPJiDUb6VLujmwFn49		
+Decius	https://www.wikidata.org/wiki/Q1830	Germanicus max.	1	TRUE	0251		0251-06	TRUE	only AE 1942/3, 55; irregular?	https://godot.date/id/HEshdmnGfvuA9y845KgRXZ		
+Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus	1		0254		0260-06		end of 254 AD	https://godot.date/id/YwkhRe6Mw8cbmNacZeenV5		
+Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus max.	1		0255		0257			https://godot.date/id/Kdp5FofpcPZmo2M49jB9sk		
+Valerian	https://www.wikidata.org/wiki/Q46750	Germanicus max.	3		0257		0260-06			https://godot.date/id/T2KQGazL8NH4AcVioL6N3g		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus	1		0254		0268-09		end of 254 AD	https://godot.date/id/qLBkE6A6vm8aNum8hbxVDo		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	1		0255		0257			https://godot.date/id/9k6YdkxSXGuiTM2HrbKSC7		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	3		0257		0258			https://godot.date/id/3PRm7SvXMB7KCWyf9yoXRM		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Germanicus max.	5		0258		0268-09			https://godot.date/id/U2ndfFKTWNHsKps7i5rmgb		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Dacicus max.	1	TRUE	0257		0268-09	TRUE	AE 1993, 914; Dessau 552; unofficial?	https://godot.date/id/onW8twTkZuKF6K8notdbfa		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Persicus max.	1		0265		0268-09	TRUE		https://godot.date/id/cuxU2LFDtWYhMdngXNUhND		
+Gallienus	https://www.wikidata.org/wiki/Q104475	Parthicus max.	1		0265		0268-09	TRUE		https://godot.date/id/q6MGtLEShBbPobZ2DsnazJ		
+Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Germanicus max.	1		0268		0270-09			https://godot.date/id/NGTM2FwdvQkfofKQgGYdeE		
+Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Gothicus max.	1		0269		0270-09			https://godot.date/id/pqXQwhUhAArpeJJLcAqZ89		
+Claudius II Gothicus	https://www.wikidata.org/wiki/Q46762	Parthicus max.	1		0270		0270-09			https://godot.date/id/wciVkjDPnTXi6EcNHg99ZE		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Germanicus max.	1		0271		0275-10			https://godot.date/id/WQEEqsHcsmB7RWshUo5idT		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Gothicus max.	1		0272		0275-10			https://godot.date/id/82j6evRe4bimWK96rJAtje		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Dacicus max.	1		0272		0275-10	TRUE	not officially used	https://godot.date/id/Y7e3isL6pFFxsJodCGqNCH		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Parthicus max.	1		0272		0275-10			https://godot.date/id/nappN232N8QTMYLUDJEiG5		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Arabicus max.	1		0272		0275-10		not officially used	https://godot.date/id/7gLaDKhHLcEqyLKkUkuAtU		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Palmyrenicus max.	1		0272		0275-10		not officially used	https://godot.date/id/455UjPBve3CGpTNUbxy9h9		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Armeniacus	1	TRUE			0275-10	TRUE	only in HA 30, 5; irregular?	https://godot.date/id/7fXrZHL8E9Hy8aBTjVB8VA		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Adiabenicus	1	TRUE			0275-10	TRUE	only in HA 30, 5; irregular?	https://godot.date/id/F2UBeyjeFUvwQKfef4qKgP		
+Aurelian	https://www.wikidata.org/wiki/Q46780	Carpicus max.	1		0273		0275-10			https://godot.date/id/ijaZ8pkNnVD9R5VaABKrPf		
+Tacitus	https://www.wikidata.org/wiki/Q177988	Gothicus max.	1		0276-06	0276-07	0276	TRUE	early summer	https://godot.date/id/aj6qgXwc2wHcXgHpheGdGV		
+Probus	https://www.wikidata.org/wiki/Q187068	Gothicus	1		0277		0282			https://godot.date/id/48fkebin8t7CscUNFm9ynM		
+Probus	https://www.wikidata.org/wiki/Q187068	Gothicus max.	1		0279-10		0282			https://godot.date/id/jYM5PRjRijP2rNMWW5EYw3		
+Probus	https://www.wikidata.org/wiki/Q187068	Germanicus max.	1		0279-10		0282			https://godot.date/id/Wep3VsjEcYLkwSz6mELWeG		
+Probus	https://www.wikidata.org/wiki/Q187068	Parthicus max.	1		0279-10		0282		only in papyri	https://godot.date/id/5UHskxdqfPis8mGDRCM46Y		
+Carus	https://www.wikidata.org/wiki/Q187004	Germanicus max.	1			0283-04-07	0283-08			https://godot.date/id/wkxpmSv8CkgXU6Bfa4yTnU		
+Carus	https://www.wikidata.org/wiki/Q187004	Parthicus max.	1		0283		0283-08			https://godot.date/id/bXcASWR6aePgksXEHaM2E2		
+Carinus	https://www.wikidata.org/wiki/Q190097	Germanicus max.	1			0283-04-07	0285-09			https://godot.date/id/bPqABTYKU9AJiv5azF2L5f		
+Carinus	https://www.wikidata.org/wiki/Q190097	Persicus max.	1		0283		0285-09			https://godot.date/id/5j3pw7CqbXLqaUXkP9Ypkb		
+Carinus	https://www.wikidata.org/wiki/Q190097	Britannicus max.	1		0284-06	0284-07	0285-09		mid 284 AD	https://godot.date/id/vJY62MHMEZpLDfUndWXoSP		
+Numerianus	https://www.wikidata.org/wiki/Q46821	Germanicus max.	1	TRUE			0284-11	TRUE		https://godot.date/id/QNeeRmZRMEkbuzmk3ugJmY		
+Numerianus	https://www.wikidata.org/wiki/Q46821	Persicus max.	1		0283		0284-11			https://godot.date/id/fpjCvqKEnCq9sj9aJGrLyg		
+Numerianus	https://www.wikidata.org/wiki/Q46821	Britannicus max.	1		0284		0284-11			https://godot.date/id/Gs7EjDpT2PbkXxKYZ7rSHX		
+Numerianus	https://www.wikidata.org/wiki/Q46821	Gothicus max.	1	TRUE			0284-11	TRUE	ZPE 149, 2004, p. 246	https://godot.date/id/CXKx9H7hNFZ8GTSsghpzcM		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	1		0285		0287			https://godot.date/id/UDwMNHsqmukSuRFDYxCSoj		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	1		0285		0289			https://godot.date/id/wKYYALKfCSwGXK7aKJR8zL		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	2		0287		0287			https://godot.date/id/65odXnznvYAA3ZmA8FCXvF		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	3		0287		0288			https://godot.date/id/i8Z9f2XD3UwGeaHy9QjxV4		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	4		0288		0293			https://godot.date/id/uKexMRd8rtPUgUdg2pngEJ		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	2		0289		0294			https://godot.date/id/7TWGRqjdvRsmgKvidKkN6g		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	5		0293		0301			https://godot.date/id/ybHtiox2o9wmNi6TjUN8cg		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	3		0294		0305-05-01			https://godot.date/id/YgYeruebCYfmSnBLTser2V		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Persicus max.	1		0295		0298	TRUE		https://godot.date/id/3QhTCPE4guakm339xQv4XA		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Britannicus max.	1		0296	0297	0305-05-01	TRUE		https://godot.date/id/zp5PLCFn7E8Svn6XwRvJua		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Carpicus max.	1		0296	0297	0305-05-01	TRUE		https://godot.date/id/6ZwkCwGW4gvEroMdk428fQ		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Armeniacus max.	1		0298		0305-05-01			https://godot.date/id/B8iRJLEjV3s5fZCpM7PHAm		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Medicus max.	1		0298		0305-05-01			https://godot.date/id/Y45Bgt9GiMtkrBQv5BcjXY		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Adiabenicus max.	1		0298		0305-05-01			https://godot.date/id/xpGXKuXmqRY6s23yseDB8P		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Persicus max.	2		0298		0305-05-01			https://godot.date/id/CJiywiw3SCUzHeZvMgJF8Z		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Sarmaticus max.	2		0299	0300	0305-05-01	TRUE		https://godot.date/id/5soFaYanqdpg3VKr8aLLw5		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Germanicus max.	6		0300	0301	0305-05-01	TRUE		https://godot.date/id/K8ji926JyWeJDEUKwTbLCM		
+Diocletian	https://www.wikidata.org/wiki/Q43107	Gothicus max.	1		0293		0305-05-01	TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/s5BSbGfPXyUhmKq6BqTbyC		
+Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	1		0287		0287			https://godot.date/id/P8s82TE2NYCrh6k7QBDw2Q		
+Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	2		0287		0288			https://godot.date/id/NNfb3AJphoXsKjt7RyyW9V		
+Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	3		0288		0293			https://godot.date/id/E6sdzZ2C6y8Sif7drZakqb		
+Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	1		0289		0294			https://godot.date/id/fWAM2S49MnoWwBicuoXXNR		
+Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	4		0293		0301			https://godot.date/id/Z5pV2X6hNzrhLsRXo3uAtK		
+Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	2		0294		0300			https://godot.date/id/naUj5hqS2SgnXSnXPF65kE		
+Maximian	https://www.wikidata.org/wiki/Q46768	Persicus max.	1		0295		0298	TRUE		https://godot.date/id/zvgBLduV5eEJTVvq9hY7WG		
+Maximian	https://www.wikidata.org/wiki/Q46768	Britannicus max.	1		0296	0297	0310-07	TRUE		https://godot.date/id/8TLDJaY2qfnS9Bp24VSAxG		
+Maximian	https://www.wikidata.org/wiki/Q46768	Carpicus max.	1		0296	0297	0310-07	TRUE		https://godot.date/id/5jVqmoZkZaf6i4Y7J4YQsF		
+Maximian	https://www.wikidata.org/wiki/Q46768	Armeniacus max.	1		0298		0310-07			https://godot.date/id/o9gpJiyecR6gjCq9jCFKEG		
+Maximian	https://www.wikidata.org/wiki/Q46768	Medicus max.	1		0298		0310-07			https://godot.date/id/2C7y4ziKDy2sVe56mAw6zS		
+Maximian	https://www.wikidata.org/wiki/Q46768	Adiabenicus max.	1		0298		0310-07			https://godot.date/id/ncjWTyFrhoahVnkT3Myth2		
+Maximian	https://www.wikidata.org/wiki/Q46768	Persicus max.	2		0298		0310-07			https://godot.date/id/qhjWXfM2T4Xdguh5bnk8v2		
+Maximian	https://www.wikidata.org/wiki/Q46768	Sarmaticus max.	3		0299	0300	0310-07	TRUE		https://godot.date/id/wDLJN6LseBSXSJtbbj6JDG		
+Maximian	https://www.wikidata.org/wiki/Q46768	Germanicus max.	5		0300	0301	0310-07	TRUE		https://godot.date/id/PLT526Ya4cSPyQufKfmDqC		
+Maximian	https://www.wikidata.org/wiki/Q46768	Gothicus max.	1		0293		0310-07	TRUE	ca. 293 AD; not used after 296/6 AD	https://godot.date/id/qAKJfYbttEMG8rPp2kHVxY		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	1		0293		0301			https://godot.date/id/xyGpFukwza8JMSTetbg4wN		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	1		0294		0300			https://godot.date/id/WkxLV9DxxvnuauKXsfSSBj		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Persicus max.	1		0295		0298	TRUE		https://godot.date/id/iwNiY9jKrVFbetnSoX9Wjg		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Britannicus max.	1		0296	0297	0305	TRUE		https://godot.date/id/hEtG2bf97VqugFzokDb5r2		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	1		0296	0297	0301	TRUE		https://godot.date/id/w6FPe44zNkLCEhkN97f2ja		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Medicus max.	1		0298		0306-07-25			https://godot.date/id/t4QXWzj5BD4davEdU8S7pj		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Adiabenicus max.	1		0298		0310-07			https://godot.date/id/onuhKMHJsfsCrtwifHbEaW		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Persicus max.	2		0298		0310-07			https://godot.date/id/Y8k5mphqhWcdRy6VM95UD6		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	2		0299	0300	0302	TRUE		https://godot.date/id/X6s29znbC7uvmv9mLLgrf6		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	2		0300	0301	0302	TRUE		https://godot.date/id/5CDinDu9EDU4KgtTPtEKuH		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	3		0302		0303			https://godot.date/id/Z2gmVQeoJnPmvYE4kkwaad		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	4		0303		0304			https://godot.date/id/H8n4yCtD9CcMXLMTRh8vUk		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Germanicus max.	5		0304		0310-07			https://godot.date/id/99geog66a5SckUciNnL3HA		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	2		0301		0302			https://godot.date/id/qXtpy6vvFX78b6b28SVQCR		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	3		0302		0303			https://godot.date/id/xdzYem28KR5YSJyz4FdkLM		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	4		0303		0304			https://godot.date/id/ivhUPQAykMSVngE7NErkY4		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Carpicus max.	5		0304		0310-07			https://godot.date/id/vCPiqKiUFXa6NE2SAvTvz5		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Sarmaticus max.	3		0302		0310-07	TRUE		https://godot.date/id/KT3hpo5sWeyKTUkJQWWFfE		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Britannicus max.	2		0305		0310-07			https://godot.date/id/Nj5M5YXtcBVAAfgmdTvmpn		
+Constantius I	https://www.wikidata.org/wiki/Q131195	Gothicus max.	1		0293		0310-07	TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/ZfmTQiiXQ33jYtRzdnkVXJ		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	1		0293		0301			https://godot.date/id/3RUZcvQ8aKe72raN3jta7o		
+Galerius	https://www.wikidata.org/wiki/Q172168	Aegyptiacus max.	1	TRUE	0293	0294	0311-05	TRUE	only attestation: Euseb. hsit.eccl. 8, 17, 3	https://godot.date/id/kTuxeXydXjmx5AAsYyvjLD		
+Galerius	https://www.wikidata.org/wiki/Q172168	Thebaicus max.	1	TRUE	0293	0294	0311-05	TRUE		https://godot.date/id/sTizBU86MqJRzXfaNZUP6S		
+Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	1		0294		0300			https://godot.date/id/wYks9uToAZTyQyoFd43GU6		
+Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	1		0295		0298	TRUE		https://godot.date/id/hDhBVUbjGphc9ojioADzAB		
+Galerius	https://www.wikidata.org/wiki/Q172168	Britannicus max.	1		0296	0297	0305	TRUE		https://godot.date/id/hZsrgqbtWtJg4MGdp4PcsP		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	1		0296	0297	0301	TRUE		https://godot.date/id/aazZA84CHsVA8tHinLyCac		
+Galerius	https://www.wikidata.org/wiki/Q172168	Armeniacus max.	1		0298		0311-05			https://godot.date/id/VAQdoEKfxkZJNMcuYHRwKT		
+Galerius	https://www.wikidata.org/wiki/Q172168	Medicus max.	1		0298		0311-05			https://godot.date/id/EwpVhU793BAesURJbfgiBb		
+Galerius	https://www.wikidata.org/wiki/Q172168	Adiabenicus max.	1		0298		0311-05			https://godot.date/id/m377VSJ5LfpBMeGKfvoJqb		
+Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	2		0298		0310			https://godot.date/id/XBDXcbdGymE5mpXt9ZyGdR		
+Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	2		0299	0300	0302	TRUE		https://godot.date/id/bYKhCR9vKHzJzqC2SKizyd		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	2		0300	0301	0302	TRUE		https://godot.date/id/xucxhQxp2YPFcHf6o6b96P		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	3		0302		0303			https://godot.date/id/CbiaUKNyuF6GhiYWiaNVm6		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	4		0303		0304			https://godot.date/id/ZRAabe9iUrZDVKebgAkuE6		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	5		0304		0307			https://godot.date/id/hTXxcRW6dcy9jFWkQgAtCc		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	2		0301		0302			https://godot.date/id/oeVUQ6JxJnAsFGqAKSbKw9		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	3		0302		0303			https://godot.date/id/bs8vfKVkYh6qevzQeofKaT		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	4		0303		0304			https://godot.date/id/UmDbS2PNduYKRYt24biJh5		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	5		0304		0308			https://godot.date/id/vn9p6jtWYEaTN85JJswegX		
+Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	3		0302		0307	TRUE		https://godot.date/id/pB3MjE5RTyNsimCJQhyqBC		
+Galerius	https://www.wikidata.org/wiki/Q172168	Britannicus max.	2		0305		0311-05			https://godot.date/id/tpzcxXFXbyMDw77yzxb2dG		
+Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	4		0306	0307	0310	TRUE		https://godot.date/id/mruGjrFtsahP7QYYJPUNVi		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	6		0307		0308			https://godot.date/id/jjVdy7yPMuvXPSXL4N22Pc		
+Galerius	https://www.wikidata.org/wiki/Q172168	Germanicus max.	7		0308		0311-05			https://godot.date/id/yntkbv8J2xR6oxNg2nijrH		
+Galerius	https://www.wikidata.org/wiki/Q172168	Carpicus max.	6		0308	0309	0311-05	TRUE		https://godot.date/id/h3LuzXM5LXdCPMqtNBC2E3		
+Galerius	https://www.wikidata.org/wiki/Q172168	Sarmaticus max.	5		0310		0311-05			https://godot.date/id/Fe4e8cyekDYkByCoxp89pn		
+Galerius	https://www.wikidata.org/wiki/Q172168	Persicus max.	3		0310		0311-05			https://godot.date/id/6mfPJudiJ3Gpu7BCymwCXZ		
+Galerius	https://www.wikidata.org/wiki/Q172168	Gothicus max.	1		0293		0311-05	TRUE	ca. 293; after 296/7 AD not used	https://godot.date/id/oX9zMZTyfRAryWAHFa7wK9		
+Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Sarmaticus	1		0313		0313	TRUE		https://godot.date/id/rJExZUV7Jjn6qXkTn3o8aV		
+Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Germanicus	1		0313		0313	TRUE		https://godot.date/id/MjVGoBD4tJJd5K4RccVVvd		
+Maximinus Daia	https://www.wikidata.org/wiki/Q189095	Persicus	1		0312		0313	TRUE		https://godot.date/id/daekqhhvcSYtGuKFm6xQDk		
+Licinius	https://www.wikidata.org/wiki/Q184549	Germanicus	1			0310	0324-09-19			https://godot.date/id/zJHA5RYLwFwNQiPsbXBNwQ		
+Licinius	https://www.wikidata.org/wiki/Q184549	Sarmaticus	1		0310		0324-09-19			https://godot.date/id/GNrjDjeYeHxQGc7vFvwyMY		
+Licinius	https://www.wikidata.org/wiki/Q184549	Germanicus max.	1		0315		0324-09-19	TRUE		https://godot.date/id/f2Jeaapz8kMbqATbJcxZPQ		
+Licinius	https://www.wikidata.org/wiki/Q184549	Sarmaticus max.	1		0315		0324-09-19	TRUE		https://godot.date/id/smGyJytqgSDoi9VhDgYJpX		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus	1		0313		0337-05-22	TRUE		https://godot.date/id/anhN9W5WMe2PHkBAWao8Ee		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus	1		0313		0337-05-22	TRUE		https://godot.date/id/ALrVVXRaShq7QnLD33pf7E		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Persicus	1		0312		0337-05-22	TRUE		https://godot.date/id/AXfecweeQFY2kr8kP6Lrh6		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	1		0313		0318	TRUE		https://godot.date/id/9wRuisXTbwT2C6EXFAZVj4		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	1		0313		0323	TRUE		https://godot.date/id/daZJsDTiiSp8NJWYWaioL7		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Britannicus max.	1		0313	0314	0337-05-22			https://godot.date/id/KMe8L8FB7zenhM3aE6fkYT		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Persicus max.	1			0315	0337-05-22			https://godot.date/id/PxmteZVRbQsvuFfBHFmYJW		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Adiabenicus max.	1			0315	0337-05-22			https://godot.date/id/qQskjZa8xs9PnbEnjZHLmi		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Medicus max.	1			0315	0337-05-22			https://godot.date/id/npqNd27WanosyzB8N8jsBB		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Gothicus max.	1		0315		0328			https://godot.date/id/bH22Tobz5PVKNwk74VZVDn		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	3		0318		0329			https://godot.date/id/CtiQjdzjaAbnbU7wJs3V47		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Carpicus max.	1			0318	0337-05-22			https://godot.date/id/4pbz7QXMQxmbUYTZbcDdRZ		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Arabicus max.	1			0318	0337-05-22			https://godot.date/id/vYT3HbHSfhr5uuBJsAFRUi		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Armeniacus max.	1			0318	0337-05-22			https://godot.date/id/U5ewaQ5eiu6fPJGarVHsHW		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	2		0323	0334	0329	TRUE	Kienast, Kaisertabelle: 232 AD; Barnes, New Empire: 334 AD	https://godot.date/id/v6CefBs4h8jQkoCWEAJCpm		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Gothicus max.	2		0328	0332	0337-05-22	TRUE	Kienast, Kaisertabelle: 328/9 AD; Barnes, New Empire: 332 AD	https://godot.date/id/eWW4e7zGW7XSWgGzn5grCJ		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Germanicus max.	4		0328	0329	0337-05-22			https://godot.date/id/Kg6U7aT6wEfBErYZ9jd4Mm		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Sarmaticus max.	3		0328	0329	0337-05-22	TRUE		https://godot.date/id/h9E29PYTJBwVDndVZacv7J		
+Constantin I	https://www.wikidata.org/wiki/Q8413	Dacicus max.	1		0336		0337-05-22			https://godot.date/id/ppPdXwhA3SDQqPjMmhSKBF		
+Constantin II	https://www.wikidata.org/wiki/Q46734	Alamannicus max.	1		0328		0340-04			https://godot.date/id/JXaMwTGSYEJGRRd9czucg9		
+Constantin II	https://www.wikidata.org/wiki/Q46734	Germanicus max.	1		0338		0340-04	TRUE		https://godot.date/id/n6Dx6jUc9Y88DjJgwZd6vj		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Germanicus	1		0323	0332	0361-11-03	TRUE		https://godot.date/id/wZo7Qv5z6BhzHzXuWWtzJn		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Alamannicus max.	1		0323	0332	0361-11-03			https://godot.date/id/HjJGj97Jg3tcTTLzBpacTB		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Germanicus max.	1		0323	0332	0361-11-03			https://godot.date/id/3ZNA6gNmbUjzmYK8DFADRQ		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Gothicus max.	1		0332		0361-11-03			https://godot.date/id/7dmXCoKgydDQQcMkmS4kRX		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Adiabenicus max.	1		0343		0361-11-03	TRUE		https://godot.date/id/zH5rJQwL6x9Cxp2GjFQQuT		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Sarmaticus	1		0334	0337	0361-11-03	TRUE	Kienast, Kaisertabelle: 337 AD; ZPE 57 1984: 334 AD	https://godot.date/id/oRYhDZVE7HbGLcUp2ebA7N		
+Constantius II	https://www.wikidata.org/wiki/Q46418	Persicus	1		0335	0338	0361-11-03	TRUE	Kienast, Kaisertabelle: 338 AD; ZPE 57 1984: 335 AD	https://godot.date/id/uhxgH2azTzkzbgx2KBrkdH		
+Julian	https://www.wikidata.org/wiki/Q33941	Germanicus max.	1		0360-02		0363-06-27	TRUE		https://godot.date/id/F36R6o5DyTs9ZMB6xohs5b		
+Julian	https://www.wikidata.org/wiki/Q33941	Alamannicus max.	1		0360-02		0363-06-27	TRUE		https://godot.date/id/TXNUDVy7f2KQbePyTmJvhR		
+Julian	https://www.wikidata.org/wiki/Q33941	Francicus max.	1		0360-02	0362	0363-06-27			https://godot.date/id/yzTrgBqSiNxyaQDBqTgx9d		
+Julian	https://www.wikidata.org/wiki/Q33941	Sarmaticus max.	1		0360-02		0363-06-27	TRUE		https://godot.date/id/HinVSfm5KiKM7Pu27kfUX9		
+Valentinian I	https://www.wikidata.org/wiki/Q46720	Germanicus	1		0360-02		0375-11-17	TRUE		https://godot.date/id/cHaSTEGJnYucBjrjaZJXEY		
+Valentinian I	https://www.wikidata.org/wiki/Q46720	Germanicus max.	1		0368		0375-11-17			https://godot.date/id/MaJiDXmgAXnp2z4N5g5X4W		
+Valentinian I	https://www.wikidata.org/wiki/Q46720	Alamannicus max.	1		0368		0375-11-17			https://godot.date/id/EC2vRWaVgC7Wf7beMyiuHG		
+Valentinian I	https://www.wikidata.org/wiki/Q46720	Francicus max.	1		0368		0375-11-17			https://godot.date/id/58fhi3z73ztTRoHQzAXUnD		
+Valentinian I	https://www.wikidata.org/wiki/Q46720	Gothicus max.	1		0369		0375-11-17			https://godot.date/id/9k2K79BtvmXAgAfxGYA9eX		
+Valens	https://www.wikidata.org/wiki/Q172471	Germanicus max.	1		0368		0378-08-09			https://godot.date/id/hWXsoAXvmkS78nkjtj5GiJ		
+Valens	https://www.wikidata.org/wiki/Q172471	Alamannicus max.	1		0368		0378-08-09			https://godot.date/id/4dzP2bEyfqjQ5243XRuxfZ		
+Valens	https://www.wikidata.org/wiki/Q172471	Francicus max.	1		0368		0378-08-09			https://godot.date/id/b8KoVNUaMkYR6Q2iqaBcbd		
+Valens	https://www.wikidata.org/wiki/Q172471	Gothicus max.	1		0369		0378-08-09			https://godot.date/id/nnvi73NBtaf9abfRiLbSYh		
+Gratian	https://www.wikidata.org/wiki/Q189108	Germanicus max.	1		0368		0383-08-25			https://godot.date/id/kXEPkhaLmSFpmnnv5H2A29		
+Gratian	https://www.wikidata.org/wiki/Q189108	Alamannicus max.	1		0368		0383-08-25			https://godot.date/id/Yxurj2drQosDsCzM9qCffi		
+Gratian	https://www.wikidata.org/wiki/Q189108	Francicus max.	1		0369		0383-08-25			https://godot.date/id/37j55rcUDd3rjZVDKfeX5d		
+Gratian	https://www.wikidata.org/wiki/Q189108	Gothicus max.	1		0369		0383-08-25			https://godot.date/id/UZDVv33odYqACwDFD8XUA9		
