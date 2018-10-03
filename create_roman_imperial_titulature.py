@@ -83,8 +83,8 @@ for row in reader:
     MERGE (yrs)-[:hasCalendarPartial]->(cp1:CalendarPartial {type:'name', value:'%s', uri:'%s'})
     MERGE (cp1)-[:hasCalendarPartial]->(cp2:CalendarPartial {type:'Titulature Part', value:'Imperial Acclamations'})
     MERGE (cp2)-[:hasCalendarPartial]->(cp3:CalendarPartial {type:'number', value:'%s'})
-    MERGE (cp3)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', comment:'%s', date_is_uncertain:'%s'})
-    """ % (row[0], row[1], row[2], row[7], row[3], row[4], row[6], row[5])
+    MERGE (cp3)-[:hasGodotUri]->(g:GODOT {uri:'%s', type:'standard', not_before:'%s', not_after:'%s', time_span_end:'%s', comment:'%s', date_is_uncertain:'%s'})
+    """ % (row[0], row[1], row[2], row[8],   row[3], row[4], row[5], row[7], row[6])
     session.run(query)
 
 
