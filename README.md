@@ -12,4 +12,7 @@ This script creates the scaffold of the following parts of the Roman imperial ti
 - imperial acclamations
 - imperial consulships
 - victory titles
- 
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2615389.svg)](https://doi.org/10.5281/zenodo.2615389)
