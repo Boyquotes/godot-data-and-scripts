@@ -1,5 +1,5 @@
-# godot-scripts
-This repository holds a collection of scripts used in the GODOT project, mainly for extracting, transforming and loading data into the GODOT graph.
+# GODOT data and scripts 
+This repository holds a collection of data and scripts used in the GODOT project, mainly for extracting, transforming and loading dates into the GODOT graph.
 
 **create_godot_graph.py**
 
