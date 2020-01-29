@@ -13,6 +13,8 @@ This script creates the scaffold of the following parts of the Roman imperial ti
 - imperial consulships
 - victory titles
 
+These scripts and data have been created between July and December 2018 with support by the [Andrew W. Mellon Foundation](https://mellon.org/) .
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2615389.svg)](https://doi.org/10.5281/zenodo.2615389)
